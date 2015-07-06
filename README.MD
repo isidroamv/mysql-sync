@@ -1,4 +1,4 @@
-s script enables you to copy the structure and content of databases back and
+This script enables you to copy the structure and content of databases back and
  forth between remote and local databases. Remote databases are accessed through
  SSH tunnels.
 
